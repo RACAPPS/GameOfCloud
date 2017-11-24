@@ -1,4 +1,4 @@
-<!---->
+<!--ESTE ARCHIVO SUSTITUYE AL PARSER DE JSON (Hemos publicado un panel que simplifica el proceso de: cojer cordenadas enviadas por node-red, procesarlas, seleccionar el target mas cercano, y seleccionarlo.)-->
 <html>
 	<head>
 		<script type="text/javascript">
@@ -24,7 +24,7 @@
 		</script>
 	</head>
 	<body>
-		<p></p>
+		<p>ESTE ARCHIVO SUSTITUYE AL PARSER DE JSON (Hemos publicado un panel que simplifica el proceso de: cojer cordenadas enviadas por node-red, procesarlas, seleccionar el target mas cercano, y seleccionarlo.)</p>
 		<table style="width: 100%">
 			<tr>
 				<th><button style="width:100%; height:250px; background: red;" onclick="click1()">1</button></th>
